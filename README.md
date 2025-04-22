@@ -16,12 +16,8 @@ This repository provides Python code for performing basic data analysis using th
 ## How to use this code:
 - Ensure you have the necessary libraries installed: pandas and matplotlib. You can install them using pip:
 
-Bash
-
 `pip install pandas matplotlib`
 Optionally, you can also install seaborn for enhanced plot styling:
-
-Bash
 
 `pip install seaborn`
 Place your CSV data file in the same directory as the script or notebook, or modify the file loading path in the code.
